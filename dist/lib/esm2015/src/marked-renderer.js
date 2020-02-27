@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: src/marked-renderer.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { Renderer } from 'marked';
+export class MarkedRenderer extends Renderer {
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFya2VkLXJlbmRlcmVyLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmd4LW1hcmtkb3duLyIsInNvdXJjZXMiOlsic3JjL21hcmtlZC1yZW5kZXJlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztBQUFBLE9BQU8sRUFBRSxRQUFRLEVBQUUsTUFBTSxRQUFRLENBQUM7QUFFbEMsTUFBTSxPQUFPLGNBQWUsU0FBUSxRQUFRO0NBQUkiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBSZW5kZXJlciB9IGZyb20gJ21hcmtlZCc7XG5cbmV4cG9ydCBjbGFzcyBNYXJrZWRSZW5kZXJlciBleHRlbmRzIFJlbmRlcmVyIHsgfVxuIl19
