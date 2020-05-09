@@ -332,7 +332,7 @@ class MarkdownService {
         if (typeof katex === 'undefined' || typeof katex.renderToString === 'undefined') {
             throw new Error(errorKatexNotLoaded);
         }
-        return html.replace(/\$([^\s\n][^$]*?)\$/gm, (/**
+        return html.replace(/\$([^\s][^$]*?)\$/gm, (/**
          * @param {?} _
          * @param {?} tex
          * @return {?}
